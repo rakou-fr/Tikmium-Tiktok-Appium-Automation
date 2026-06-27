@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "deviceName": "Android",
+  "udid": "90f43524",
+  "appPackage": "com.zhiliaoapp.musically",
+  "appActivity": "com.ss.android.ugc.aweme.splash.SplashActivity",
+  "noReset": true
+}

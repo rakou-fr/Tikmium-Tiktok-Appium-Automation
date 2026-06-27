@@ -1,0 +1,220 @@
+bouton sub sur profil dans le feed
+id
+com.zhiliaoapp.musically:id/i3n
+-android uiautomator
+(docs)
+new UiSelector().resourceId("com.zhiliaoapp.musically:id/i3n")
+xpath
+//android.widget.ImageView[@resource-id="com.zhiliaoapp.musically:id/i3n"]
+Box Model
+77
+66
+(958, 1066)(1035, 1066)
+(996.5, 1099)
+(958, 1132)(1035, 1132)
+Attribut	Valeur
+elementId
+index
+0
+package
+com.zhiliaoapp.musically
+class
+android.widget.ImageView
+text
+resource-id
+com.zhiliaoapp.musically:id/i3n
+checkable
+false
+checked
+false
+clickable
+false
+enabled
+true
+focusable
+false
+focused
+false
+long-clickable
+false
+password
+false
+scrollable
+false
+selected
+false
+bounds
+[958,1066][1035,1132]
+displayed
+true
+a11y-important
+false
+screen-reader-focusable
+false
+drawing-order
+2
+showing-hint
+false
+text-entry-key
+false
+dismissable
+false
+a11y-focused
+false
+heading
+false
+live-region
+0
+context-clickable
+false
+content-invalid
+false
+window-id
+212
+
+profil depuis le feed de la personne
+
+Rechercher par	Sélecteur
+id
+com.zhiliaoapp.musically:id/user_avatar_layout_indicator
+-android uiautomator
+(docs)
+new UiSelector().resourceId("com.zhiliaoapp.musically:id/user_avatar_layout_indicator")
+xpath
+//android.view.View[@resource-id="com.zhiliaoapp.musically:id/user_avatar_layout_indicator"]
+Box Model
+132
+132
+(931, 975)(1063, 975)
+(997, 1041)
+(931, 1107)(1063, 1107)
+Attribut	Valeur
+elementId
+index
+1
+package
+com.zhiliaoapp.musically
+class
+android.view.View
+text
+resource-id
+com.zhiliaoapp.musically:id/user_avatar_layout_indicator
+checkable
+false
+checked
+false
+clickable
+false
+enabled
+true
+focusable
+false
+focused
+false
+long-clickable
+false
+password
+false
+scrollable
+false
+selected
+false
+bounds
+[931,975][1063,1107]
+displayed
+true
+a11y-important
+false
+screen-reader-focusable
+false
+drawing-order
+2
+showing-hint
+false
+text-entry-key
+false
+dismissable
+false
+a11y-focused
+false
+heading
+false
+live-region
+0
+context-clickable
+false
+content-invalid
+false
+window-id
+212
+
+bouton publier crois
+Rechercher par	Sélecteur
+-android uiautomator
+(docs)
+new UiSelector().className("android.widget.ImageView").instance(14)
+xpath
+//android.widget.Button[@content-desc="Créer"]/android.widget.ImageView[2]
+Box Model
+206
+135
+(437, 1981)(643, 1981)
+(540, 2048.5)
+(437, 2116)(643, 2116)
+Attribut	Valeur
+elementId
+index
+1
+package
+com.zhiliaoapp.musically
+class
+android.widget.ImageView
+text
+checkable
+false
+checked
+false
+clickable
+false
+enabled
+true
+focusable
+false
+focused
+false
+long-clickable
+false
+password
+false
+scrollable
+false
+selected
+false
+bounds
+[437,1981][643,2116]
+displayed
+true
+a11y-important
+false
+screen-reader-focusable
+false
+drawing-order
+4
+showing-hint
+false
+text-entry-key
+false
+dismissable
+false
+a11y-focused
+false
+heading
+false
+live-region
+0
+context-clickable
+false
+content-invalid
+false
+window-id
+212

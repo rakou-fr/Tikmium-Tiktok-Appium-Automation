@@ -1,0 +1,13 @@
+{
+    "like" : {
+        "x" : 1000,
+        "y" : 1220,
+        "probability" : 0.50
+    },
+    "enregistrer" : {
+        "x" : 1000,
+        "y" : 1220,
+        "probability" : 0.25
+    }
+
+}
