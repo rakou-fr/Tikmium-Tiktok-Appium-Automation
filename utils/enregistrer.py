@@ -20,7 +20,7 @@ def enregistrer(driver):
                 '//android.widget.ImageView[@resource-id="com.zhiliaoapp.musically:id/hdn"]'
             )
             btn.click()
-            log.log_in_json("💾 Enregistrer via XPath")
+            log.log_in_json("Enregistrer via XPath")
             return
         except NoSuchElementException:
             pass
@@ -31,13 +31,13 @@ def enregistrer(driver):
                 "com.zhiliaoapp.musically:id/hdn"
             )
             btn.click()
-            log.log_in_json("💾 Enregistrer via ID")
+            log.log_in_json("Enregistrer via ID")
             return
         except NoSuchElementException:
             pass
 
         click.tap_xy(driver, x, y)
-        log.log_in_json("💾 Enregistrer via X/Y fallback")
+        log.log_in_json("Enregistrer via X/Y fallback")
 
     except Exception as e:
         log.log_in_json(f"❌ Erreur enregistrer: {str(e)}")

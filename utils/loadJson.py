@@ -5,5 +5,5 @@
 import json
 
 def load_json():
-    with open('./utils/utils.json', 'r', encoding='utf-8') as json_data:
+    with open('./utils/data/utils.json', 'r', encoding='utf-8') as json_data:
         return json.load(json_data)

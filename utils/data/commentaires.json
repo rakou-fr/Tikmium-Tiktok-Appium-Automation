@@ -1,0 +1,67 @@
+{
+    "positif_debut": [
+        "C'est bien fait",
+        "Pas mal",
+        "Plutôt propre",
+        "Intéressant",
+        "Bien réalisé",
+        "Correct",
+        "Ça passe bien"
+    ],
+    "positif_milieu": [
+        "la vidéo",
+        "le contenu",
+        "le montage",
+        "ce format",
+        "l'idée"
+    ],
+    "positif_fin": [
+        "dans l'ensemble.",
+        "globalement.",
+        "rien à redire.",
+        "ça fonctionne.",
+        "ça se regarde facilement."
+    ],
+
+    "neutre_debut": [
+        "Bof",
+        "Mouais",
+        "Pas convaincu",
+        "Mitigé",
+        "Je sais pas trop"
+    ],
+    "neutre_milieu": [
+        "la vidéo",
+        "le contenu",
+        "le rendu",
+        "le format"
+    ],
+    "neutre_fin": [
+        "ça manque un truc.",
+        "c'est un peu vide.",
+        "je m'attendais à mieux.",
+        "ça passe sans plus.",
+        "c'est moyen."
+    ],
+
+    "negatif_debut": [
+        "Franchement",
+        "Honnêtement",
+        "Désolé mais",
+        "Je trouve que",
+        "Clairement"
+    ],
+    "negatif_milieu": [
+        "la vidéo",
+        "le contenu",
+        "le montage",
+        "le résultat"
+    ],
+    "negatif_fin": [
+        "n'est pas ouf.",
+        "manque de travail.",
+        "c'est pas très intéressant.",
+        "ça ne fonctionne pas trop.",
+        "c'est un peu raté."
+    ]
+}
