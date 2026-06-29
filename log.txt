@@ -444,3 +444,25 @@ Like via XPath
 2026-06-28 23:31:07 - Publication lancée via ('id', 'com.zhiliaoapp.musically:id/sa3')
 2026-06-28 23:31:09 - Popup musique confirmée via ('-android uiautomator', 'new UiSelector().text("Publier la vidéo")')
 2026-06-28 23:31:09 - Vidéo publiée avec succès
+2026-06-29 02:36:49 - Démarrage du script TikTok Automation
+2026-06-29 02:37:24 - Onglet Poster ouvert via ('id', 'com.zhiliaoapp.musically:id/nr7')
+2026-06-29 02:37:27 - Galerie ouverte via ('id', 'com.zhiliaoapp.musically:id/upload_hot_area')
+2026-06-29 02:37:29 - Filtre Vidéo appliqué via ('xpath', '//*[@text="Vidéo" or @text="Video" or @text="Vidéos" or @text="Videos"]')
+2026-06-29 02:37:31 - Première vidéo (la plus récente) sélectionnée
+2026-06-29 02:37:32 - Bouton Suivant cliqué via ('id', 'com.zhiliaoapp.musically:id/wjp')
+2026-06-29 02:37:35 - Bouton Suivant (écran d'édition) cliqué via ('id', 'com.zhiliaoapp.musically:id/p2y')
+2026-06-29 02:37:39 - Description/hashtags saisis via ('id', 'com.zhiliaoapp.musically:id/gpr') : Test TikTok Automation #test #automation
+2026-06-29 02:37:42 - Clavier fermé via driver.hide_keyboard()
+2026-06-29 02:37:43 - Publication lancée via ('id', 'com.zhiliaoapp.musically:id/sa3')
+2026-06-29 02:37:45 - Popup musique confirmée via ('-android uiautomator', 'new UiSelector().text("Publier la vidéo")')
+2026-06-29 02:37:45 - Vidéo publiée avec succès
+Like via X/Y fallback
+Like via X/Y fallback
+Like via X/Y fallback
+Like via X/Y fallback
+2026-06-29 02:56:30 - Erreur lors de la publication de la vidéo : Message: Aucun des locators fournis n'a fonctionné : [('id', 'com.zhiliaoapp.musically:id/nr7'), ('xpath', '//android.widget.Button[@resource-id="com.zhiliaoapp.musically:id/nr7"]'), ('xpath', '//*[@content-desc="Créer"]'), ('-android uiautomator', 'new UiSelector().description("Créer")')]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+Like via XPath
+Like via XPath
+Like via X/Y fallback
+Like via XPath
